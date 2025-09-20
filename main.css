@@ -5,3 +5,7 @@ time {
 .post {
     margin-bottom: 24px;
 }
+
+.container {
+    padding: 10px;
+}
